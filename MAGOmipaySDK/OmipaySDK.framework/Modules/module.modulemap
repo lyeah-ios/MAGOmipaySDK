@@ -1,0 +1,6 @@
+framework module OmipaySDK {
+  umbrella header "OmipaySDK.h"
+
+  export *
+  module * { export * }
+}
